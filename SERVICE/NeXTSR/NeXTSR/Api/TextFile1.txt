@@ -1,0 +1,177 @@
+﻿using NeXTSR.Members;
+using NeXTSR.Services;
+using ServiceStack.Redis;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace NeXTSR.Api
+{
+   public interface IDBService
+   {
+      IEnumerable<CityReports> GetCityReports();
+      IEnumerable<CityReports> GetCityReportsn();
+      long CreateCityReport(string reportHeader, string reportBody, float latid, float longt, DateTime createTime, DateTime activeTime, string data, bool Status, string image1);
+       long CreateCityEvent(string reportHeader, string reportBody, float longt, float latid, DateTime createTime, DateTime activeTime, string etknilkTuru, string etknilkIcerigi, bool status, string image1, string image2);
+       IEnumerable<CityEvents> getcityevents();
+       long DeleteRequest(long requestId);
+   }
+   public class DBService : IDBService
+    {
+        private IRedisClientsManager RedisManager { get; set; }
+
+        public DBService(IRedisClientsManager redisManager)
+        {
+            this.RedisManager = redisManager;
+        }
+
+      public IEnumerable<CityReports> GetCityReports()
+      {
+         using (var redisclient = RedisManager.GetClient())
+         {
+            var redisUser = redisclient.As<CityReports>();
+
+            return redisUser.GetAll();
+         }
+      }
+
+      public IEnumerable<CityReports> GetCityReportsn()
+      {
+         using (var redisclient = RedisManager.GetClient())
+         {
+            var redisUser = redisclient.As<CityReports>();
+
+            return redisUser.GetAll();
+         }
+       }
+
+      public long CreateCityReport(string reportHeader, string reportBody, float latid, float longt, DateTime createTime,
+         DateTime activeTime, string data, bool Status , string image)
+      {
+         using (var redisclient = RedisManager.GetClient())
+         {
+            var redisUser = redisclient.As<CityReports>();
+
+            var NewReport = new CityReports()
+            {
+               ReportHeader = reportHeader,
+               ReportBody = reportBody,
+               latid = latid,
+               longt = longt,
+               Active = Status,
+               Data = data,
+               ProcessTime = activeTime,
+               createTime = createTime,
+               Image = image,
+               Id = redisUser.GetNextSequence()
+            };
+
+            redisUser.Store(NewReport);
+            return NewReport.Id;
+
+         }
+      }
+
+       public long CreateCityEvent(string reportHeader, string reportBody, float longt, float latid, DateTime createTime,
+           DateTime activeTime, string etknilkTuru, string etknilkIcerigi, bool status, string image1, string image2)
+       {
+           using (var redisclient = RedisManager.GetClient())
+           {
+               var redisUser = redisclient.As<CityEvents>();
+
+               var NewReport = new CityEvents()
+               {
+                   
+                   ReportHeader = reportHeader,
+                   ReportBody = reportBody,
+                   Latid = latid,
+                   Longt = longt,
+                   ActiveTime = activeTime,
+                   CreateTime = createTime,
+                   image1 = image1,
+                   EtknilkIcerigi = etknilkIcerigi,
+                   EtknilkTuru = etknilkTuru,
+                   Status = status,
+                   image2 = image2
+                   Id = redisUser.GetNextSequence()
+               };
+
+               redisUser.Store(NewReport);
+               return NewReport.Id;
+
+           }
+       }
+
+       public IEnumerable<CityEvents> getcityevents()
+       {
+           using (var redisclient = RedisManager.GetClient())
+           {
+               var redisUser = redisclient.As<CityEvents>();
+
+               return redisUser.GetAll();
+           }
+       }
+
+       public long DeleteRequest(long requestId)
+       {
+           using (var redisClient = RedisManager.GetClient())
+           {
+               var redisUser = redisClient.As<CityEvents>();
+
+               var c = redisUser.GetById(requestId);
+               redisUser.DeleteById(requestId);
+
+
+
+               return requestId;
+
+
+
+           }
+       }
+    }
+}
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace NeXTSR.Members
+{
+   public class CityReports
+   {
+      public long Id { get; set; }
+      public string ReportHeader { get; set; }
+      public string ReportBody { get; set; }
+      public float latid  { get; set; }
+      public float longt { get; set; }
+      public DateTime createTime { get; set; }
+      public DateTime ProcessTime { get; set; }
+      public string Data { get; set; }
+      public bool Active { get; set; }
+      public string Image { get; set; }
+   }
+   public class CityEvents
+   {
+       public long Id { get; set; }
+       public string ReportHeader { get; set; }
+       public string ReportBody { get; set; }
+       public float Longt { get; set; }
+       public float Latid { get; set; }
+       public DateTime CreateTime { get; set; }
+       public DateTime ActiveTime { get; set; }
+       public string EtknilkTuru { get; set; }
+       public string EtknilkIcerigi { get; set; }
+       public string image1 { get; set; }
+       public string image2 { get; set; }
+
+       public bool Status { get; set; }
+   }
+
+}

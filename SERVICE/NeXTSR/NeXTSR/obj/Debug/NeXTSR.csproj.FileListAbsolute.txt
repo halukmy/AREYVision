@@ -1,0 +1,362 @@
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\NeXTSR.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+\\vmware-host\Shared Folders\Desktop\[ Core ]\Services\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+Y:\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+Y:\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+Y:\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+Y:\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+Y:\NeXTSR\NeXTSR\bin\NeXTSR.dll
+Y:\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+Y:\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+Y:\NeXTSR\NeXTSR\bin\EntityFramework.dll
+Y:\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+Y:\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+Y:\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+Y:\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+Y:\NeXTSR\NeXTSR\bin\WebGrease.dll
+Y:\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+Y:\NeXTSR\NeXTSR\bin\EntityFramework.xml
+Y:\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+Y:\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+Y:\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+Y:\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+Y:\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+Y:\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+Y:\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+Y:\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\NeXTSR.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\EntityFramework.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\WebGrease.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\EntityFramework.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+\\psf\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+\\psf\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+\\psf\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+\\psf\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+C:\Users\internet\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+C:\Users\internet\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+C:\Users\internet\Google Drive\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\NeXTSR.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\EntityFramework.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\WebGrease.dll
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\EntityFramework.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Haluk\Desktop\[NeXTM]\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+C:\inetpub\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+C:\inetpub\NeXTSR\NeXTSR\bin\NeXTSR.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+C:\inetpub\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\EntityFramework.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.Security.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Owin.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\WebGrease.dll
+C:\inetpub\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+C:\inetpub\NeXTSR\NeXTSR\bin\EntityFramework.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+C:\inetpub\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Microsoft.Owin.Security.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+C:\inetpub\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
+C:\inetpub\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+C:\inetpub\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\NeXTSR.dll.config
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\NeXTSR.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\NeXTSR.pdb
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Antlr3.Runtime.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\EntityFramework.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\MarkdownSharp.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.Security.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Newtonsoft.Json.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Owin.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Client.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Common.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Interfaces.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Redis.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Text.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Helpers.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Http.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Mvc.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Optimization.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Providers.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Razor.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\WebGrease.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Antlr3.Runtime.pdb
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\EntityFramework.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\EntityFramework.SqlServer.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\MarkdownSharp.pdb
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\MarkdownSharp.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Microsoft.Owin.Security.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\Newtonsoft.Json.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Client.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Common.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Redis.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\ServiceStack.Text.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Extensions.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Formatting.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Net.Http.Primitives.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Helpers.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Http.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Http.WebHost.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Mvc.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Optimization.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Providers.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.Razor.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csproj.App.config
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\obj\Debug\NeXTSR.dll
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\obj\Debug\NeXTSR.pdb
+C:\Users\Haluk\Desktop\AREYVision\SERVICE\NeXTSR\NeXTSR\obj\Debug\NeXTSR.csprojResolveAssemblyReference.cache
